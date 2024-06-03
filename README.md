@@ -1,22 +1,20 @@
-# SpeedingTicketProgram
-A simple Python program to calculate speeding tickets. 
-<h1>JWipe - Disk Sanitization</h1>
-
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+# SpeedingTicketProgram 
+<h1>Python - Speeding Ticket Program</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+A Python speeding ticket program that calculates speeding tickets for the fictional Podunk Police Department.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Python</b>
+- <b>Visual Studio Code</b>
+
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 11</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
