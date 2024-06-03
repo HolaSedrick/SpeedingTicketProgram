@@ -1,7 +1,7 @@
 # SpeedingTicketProgram 
-<h1>Python - Speeding Ticket Program</h1>
+<h2>Python - Speeding Ticket Program</h2>
 
-<h2>Description</h2>
+<h3>Description</h3>
 A Python speeding ticket program that calculates speeding tickets for the fictional Podunk Police Department.
 <br />
 
