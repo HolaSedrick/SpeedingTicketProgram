@@ -14,7 +14,7 @@ A Python speeding ticket program that calculates speeding tickets for the fictio
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11</b> (21H2)
+- <b>Windows 11</b>
 
 <h2>Program walk-through:</h2>
 
